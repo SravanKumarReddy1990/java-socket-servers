@@ -1,0 +1,3 @@
+<data>
+<servlet><urlName>ServiceClass1</urlName><className>com.sravan.impl.ServiceClass</className></servlet>
+</data>

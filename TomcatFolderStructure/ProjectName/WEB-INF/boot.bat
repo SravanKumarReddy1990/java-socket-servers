@@ -1,0 +1,1 @@
+java -cp "./bin;./lib/SravanXMLConverter.jar" com.sravan.server.chatServer
